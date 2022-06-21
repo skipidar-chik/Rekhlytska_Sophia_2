@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\bin\Debug\net6.0\op_lr_2.exe
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\bin\Debug\net6.0\op_lr_2.deps.json
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\bin\Debug\net6.0\op_lr_2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\bin\Debug\net6.0\op_lr_2.dll
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\bin\Debug\net6.0\op_lr_2.pdb
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\op_lr_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\op_lr_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\op_lr_2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\op_lr_2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\op_lr_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\op_lr_2.dll
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\refint\op_lr_2.dll
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\op_lr_2.pdb
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\op_lr_2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\op_lr_2\op_lr_2\obj\Debug\net6.0\ref\op_lr_2.dll
